@@ -1,0 +1,33 @@
+html{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    color: white;
+    background-color: rgba(123, 0, 238, 0.747);
+}
+
+.header{
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding-top: 25px;
+}
+
+h1{
+    font-weight: 400;
+    font-size: 40px;
+    padding-bottom: -5px;
+}
+
+.header p{
+    font-size: 20px;
+}
+
+.div-form{
+    display: flex;
+    align-items: baseline;
+    align-content: flex-end;
+}
